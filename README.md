@@ -1,3 +1,6 @@
+# Contributors
+Hathaitorn Rojnirun (hr346@cornell.edu), Oluseye Bankole (ob97@cornell.edu)
+
 # embeddings
 
 # Structure of the repo
